@@ -21,7 +21,7 @@ NOTE: Please read the RUN section before opening an issue.
 
 ![screenshot](screenshot.png)
 
-The application is deployed to Heroku and can be accessed through the following link:
+One click Deployment to Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Meet-the-Mentor/bestbags-nodejs-ecommerce-master)
 
