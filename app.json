@@ -1,0 +1,8 @@
+{
+  "name": "Nodejs App",
+  "description": "A Nodejs E commerce site",
+  "repository": "https://github.com/Meet-the-Mentor/bestbags-nodejs-ecommerce-master",
+  "logo": "https://github.com/Meet-the-Mentor/bestbags-nodejs-ecommerce-           master/download.jpg",
+  "keywords": ["node", "express"]
+}
+
